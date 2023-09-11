@@ -1,0 +1,16 @@
+Apellido: aaa<br>
+Nombre: aaa<br>
+Fecha: 11/09/2023-
+505,25;
+Apellido: bbb<br>
+Nombre: bbb<br>
+Fecha: 14/09/2023-
+200;
+Apellido: ccc<br>
+Nombre: ccc<br>
+Fecha: 25/09/2023-
+1000,50;
+Apellido: ddd<br>
+Nombre: ddd<br>
+Fecha: 23/09/2023-
+50;
